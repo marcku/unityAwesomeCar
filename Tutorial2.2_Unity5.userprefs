@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CarBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CarBehaviour.cs" Line="46" Column="3" />
+      <File FileName="Assets\Scripts\SkidmarkBehaviour.cs" Line="52" Column="40" />
+      <File FileName="Assets\Scripts\MenuBehaviour.cs" Line="73" Column="28" />
+      <File FileName="Assets\Scripts\Prefs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartCountdown.cs" Line="9" Column="2" />
+      <File FileName="Assets\wheelBehaviour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
